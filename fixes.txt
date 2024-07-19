@@ -2,3 +2,7 @@
 
 
 2 bug fixed
+
+
+
+bug 3 and bug 4 fixed
